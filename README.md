@@ -34,6 +34,8 @@ Data: Data is passed in from an external API simulation file, data is passed in 
 Styling: Application of CSS styles to give the page an aesthetically pleasing look.
 Deployment: The project was deployed on Netlify so that it could be available to the public.
 
+https://project01-oszymorek.netlify.app/
+
 ---
 
 ## Repository Structure
