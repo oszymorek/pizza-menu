@@ -1,10 +1,68 @@
-Projekt #1 - Pizza Menu
-Opis Projektu
-To jest mój pierwszy projekt stworzony za pomocą React.js. Strona pełni funkcję strony przedstawiającej menu pizzeri.
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
+</p>
+<p align="center">
+    <h1 align="center">PIZZA-MENU</h1>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/license/oszymorek/pizza-menu?style=flat&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/oszymorek/pizza-menu?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/oszymorek/pizza-menu?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/oszymorek/pizza-menu?style=flat&color=0080ff" alt="repo-language-count">
+<p>
+<p align="center">
+		<em>Developed with the software and tools below.</em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
+	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+	<img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" alt="React">
+	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
+</p>
+<hr>
 
-Proces Tworzenia
-Inicjalizacja projektu: Użyłem create-react-app do stworzenia podstawowej struktury projektu.
-Tworzenie komponentów: Każda sekcja strony została zaimplementowana jako oddzielny komponent React.
-Dane: Dane są przekazywane z zewnętrznego pliku symulującego API, dane przekazywane są za pomocą props.
-Styling: Zastosowanie stylów CSS, aby nadać stronie estetyczny wygląd.
-Wdrożenie: Projekt został wdrożony na Netlify, aby mógł być dostępny publicznie.
+---
+
+## Project #1 - Pizza Menu
+
+This is my first project created using React.js. The page acts as a page showing the menu of a pizza restaurant.
+
+Creation Process
+Initialising the project: I used create-react-app to create the basic structure of the project.
+Component creation: Each section of the page was implemented as a separate React component.
+Data: Data is passed in from an external API simulation file, data is passed in via props.
+Styling: Application of CSS styles to give the page an aesthetically pleasing look.
+Deployment: The project was deployed on Netlify so that it could be available to the public.
+
+---
+
+## Repository Structure
+
+```sh
+└── pizza-menu/
+    ├── README.md
+    ├── package-lock.json
+    ├── package.json
+    ├── public
+    │   ├── img
+    │   │   ├── focaccia.jpg
+    │   │   ├── funghi.jpg
+    │   │   ├── margherita.jpg
+    │   │   ├── prosciutto.jpg
+    │   │   ├── salamino.jpg
+    │   │   └── spinaci.jpg
+    │   └── index.html
+    └── src
+        ├── API
+        │   └── Data.js
+        ├── App.js
+        ├── components
+        │   ├── Footer.js
+        │   ├── Header.js
+        │   ├── Menu.js
+        │   └── Pizza.js
+        ├── index.css
+        └── index.js
+```
+
+---
