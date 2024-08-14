@@ -27,12 +27,12 @@
 
 This is my first project created using React.js. The page acts as a page showing the menu of a pizza restaurant.
 
-Creation Process
-Initialising the project: I used create-react-app to create the basic structure of the project.
-Component creation: Each section of the page was implemented as a separate React component.
-Data: Data is passed in from an external API simulation file, data is passed in via props.
-Styling: Application of CSS styles to give the page an aesthetically pleasing look.
-Deployment: The project was deployed on Netlify so that it could be available to the public.
+<strong>Creation Process</strong> 
+<strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.
+<strong>Component creation:</strong> Each section of the page was implemented as a separate React component.
+<strong>Data:</strong> Data is passed in from an external API simulation file, data is passed in via props.
+<strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.
+<strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.
 
 https://project01-oszymorek.netlify.app/
 
